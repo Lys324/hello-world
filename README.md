@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Lys324 here, I like Python and Lua.
